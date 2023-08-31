@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PortalCompras.Produtos.boundedContext.ProdutosWebApi</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:PortalCompras.Produtos.boundedContext.ProdutosWebApi.Controllers.ProdutosController.Get(System.Int32,System.Int32)" -->
+    </members>
+</doc>

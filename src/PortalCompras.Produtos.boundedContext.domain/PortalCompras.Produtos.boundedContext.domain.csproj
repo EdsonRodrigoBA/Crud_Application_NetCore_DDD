@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PortalCompras.Produtos.boundedContext.core\PortalCompras.Produtos.boundedContext.core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\edson\source\repos\PortalCompras.Produtos.boundedContext\src\PortalCompras.Produtos.boundedContext.domain\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\edson\source\repos\PortalCompras.Produtos.boundedContext\src\PortalCompras.Produtos.boundedContext.domain\.editorconfig" />
+  </ItemGroup>
+
+</Project>
